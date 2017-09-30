@@ -4,17 +4,16 @@
 Tutorial
 ========
 
-This is the place to start. It's suggested that you follow its sections in
-order. That's why the Table of Contents here is *numbered*, using the
-``:numbered:`` option (you can view the code to see how it's used) - it's the
-only numbered Table of Contents in this project.
-
-Each section of the tutorial covers a sequence of practical steps, is
-self-contained and assumes a minimum of knowledge and experience. See the :ref:`about-the-structure-tutorials` for an explanation of the principles used to guide the way the tutorial section is written.
+In this part, we will create a simple Python project and see how Raincoat can help
+us explicitating all our "copy-pasted dependencies".
 
 .. toctree::
     :maxdepth: 1
     :numbered:
 
-    installation
+    concepts
+    simple_project
+    adding_raincoat
+    running_raincoat
+    using_ci
 
