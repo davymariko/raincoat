@@ -23,6 +23,7 @@ Raincoat
 ========
 
 Raincoat has you covered when your code isn't DRY.
+
 The documentation is split in four different parts, as explained below.
 
 Contents
@@ -67,3 +68,12 @@ Explanation and discussion of key topics
 .. rst-class:: clearfix row
 
 .. include:: README.rst
+
+.. toctree::
+    :maxdepth: 1
+
+    explanation/index
+    how-to/index
+    reference/index
+    tutorial/index
+

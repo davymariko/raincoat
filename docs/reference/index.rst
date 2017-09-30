@@ -7,4 +7,4 @@ Technical reference
     :maxdepth: 1
 
     command
-    entry_points
+    entry-points
